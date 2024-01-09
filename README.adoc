@@ -89,6 +89,12 @@ device like mouse or keyboard.
 
 If no 'device_name' or 'device_id' option given the last calibratable device is selected.
 
+== Download
+```
+wget https://github.com/ivan-matveev/xorg_calibrator/files/13859910/xorg_calibrator.gz
+gunzip xorg_calibrator.gz
+chmod 775 xorg_calibrator
+```
 == Build
 
 to build run:
