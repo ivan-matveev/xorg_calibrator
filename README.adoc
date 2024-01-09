@@ -84,7 +84,7 @@ device like mouse or keyboard.
 * screen_num - number of the screen to calibrate
 * message - message to show on calibration screen. Strings separated by "\n". UTF8 is supported
 * output_filename - name of the file to write calibration config to
-* verbose - print a lot of log messages"
+* verbose - print a lot of log messages
 * timeout - seconds to wait for user touches. Default - wait forever
 
 If no 'device_name' or 'device_id' option given the last calibratable device is selected.
